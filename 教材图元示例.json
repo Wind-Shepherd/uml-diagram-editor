@@ -1,0 +1,106 @@
+{
+  "version": 2,
+  "width": 1200,
+  "height": 900,
+  "canvasOffsetX": 0,
+  "canvasOffsetY": 0,
+  "mode": "deployment",
+  "title": "教材图元形状核对",
+  "lanes": [
+    {
+      "name": "泳道 1",
+      "w": 560,
+      "color": "#f0f5fa",
+      "x": 40
+    },
+    {
+      "name": "泳道 2",
+      "w": 560,
+      "color": "#f3f7f0",
+      "x": 600
+    }
+  ],
+  "nodes": [
+    {
+      "id": "2dd1e69a-8c79-4664-a47b-5301d94babd4",
+      "type": "component",
+      "x": 100,
+      "y": 140,
+      "w": 240,
+      "h": 90,
+      "text": "构件",
+      "fontSize": 30
+    },
+    {
+      "id": "a759d3c6-47da-4161-9165-2ab624030401",
+      "type": "folder",
+      "x": 380,
+      "y": 140,
+      "w": 240,
+      "h": 100,
+      "text": "软件",
+      "fontSize": 30
+    },
+    {
+      "id": "53fefe54-dad2-41f1-9350-aa5d481e88b9",
+      "type": "class",
+      "x": 660,
+      "y": 140,
+      "w": 240,
+      "h": 210,
+      "text": "类名\n--\n属性\n--\n操作()",
+      "fontSize": 22
+    },
+    {
+      "id": "8b19c35a-a64b-403c-87cf-a733b9e84882",
+      "type": "interface",
+      "x": 940,
+      "y": 140,
+      "w": 44,
+      "h": 44,
+      "text": "接口",
+      "fontSize": 30
+    },
+    {
+      "id": "9203ce4d-7287-4637-a75c-2ca2a3bc7d4d",
+      "type": "deployment",
+      "x": 100,
+      "y": 500,
+      "w": 220,
+      "h": 230,
+      "text": "部署节点",
+      "fontSize": 30
+    },
+    {
+      "id": "ff04f908-f8ee-42c3-9665-fdf3f7fc74bf",
+      "type": "state",
+      "x": 380,
+      "y": 500,
+      "w": 140,
+      "h": 140,
+      "text": "新状态",
+      "fontSize": 30
+    },
+    {
+      "id": "a3c48c33-24eb-4a53-b49c-dc8ced2eb538",
+      "type": "activation",
+      "x": 660,
+      "y": 500,
+      "w": 24,
+      "h": 150,
+      "text": "",
+      "fontSize": 30
+    },
+    {
+      "id": "47bb3e16-4516-4dd4-a2d0-cb1954378bf7",
+      "type": "connector",
+      "x": 940,
+      "y": 500,
+      "w": 44,
+      "h": 44,
+      "text": "A",
+      "fontSize": 30
+    }
+  ],
+  "edges": []
+}

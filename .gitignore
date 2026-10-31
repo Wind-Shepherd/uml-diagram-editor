@@ -1,0 +1,10 @@
+# Local backups and validation outputs
+*备份*/
+*备份*.md
+editor-*.js
+checks/
+check*.cjs
+node_modules/
+*.log
+.DS_Store
+Thumbs.db
